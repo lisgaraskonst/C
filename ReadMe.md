@@ -1,2 +1,2 @@
 # coursera-HCJ
-Coursera Lessons - HTML, CSS, JavaScript
+Coursera Lesson 4 - HTML, CSS, JavaScript
