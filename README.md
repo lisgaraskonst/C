@@ -1,2 +1,2 @@
-# C4
-coursera-HCJ
+# coursera-HCJ
+Coursera Lessons - HTML, CSS, JavaScript
