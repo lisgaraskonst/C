@@ -1,0 +1,28 @@
+body {
+	font-size: 15px;
+	color: #000;
+	background-color: #b0c4d3;
+	font-family: "ubuntu";
+}
+#header-nav {
+	background-color: #008080;
+	border-radius: 0px;
+	border: solid 0px;
+	height: 100px;
+}
+.navbar-brand {
+	padding-top: auto;
+}
+#site-name {
+	color: #fff;
+	text-shadow: 1px 1px 1px #222;
+	font-size: 0.75em;
+}
+#nav-list a{
+	color: #fff;
+	background-color: #558585;
+	width: 100%;
+}
+.main-page{
+	background-color: #B0E0E6;
+}
